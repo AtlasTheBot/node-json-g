@@ -1,0 +1,13 @@
+{
+  "name": "json-g",
+  "version": "0.0.1",
+  "description": "Encode/Decode library for JSON-G",
+  "main": "index.js",
+  "repository": "https://github.com/AtlasTheBot/json-g",
+  "author": "AtlasTheBot",
+  "license": "MIT",
+  "dependencies": {
+    "get-pixels": "^3.3.0",
+    "save-pixels": "^2.3.4"
+  }
+}

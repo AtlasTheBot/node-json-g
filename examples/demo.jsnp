@@ -1,0 +1,33 @@
+{
+    "version": "1.0",
+    "comment": "Hello World!",
+    "transparency": true,
+    "layers": [
+        {
+            "pixels": [
+                {
+                    "position": {
+                        "x": 2,
+                        "y": 2
+                    },
+                    "color": {
+                        "red": 255,
+                        "green": 255,
+                        "blue": 255,
+                        "alpha": 255
+                    }
+                }
+            ],
+            "default_color": {
+                "red": 0,
+                "green": 0,
+                "blue": 0,
+                "alpha": 255
+            }
+        }
+    ],
+    "size": {
+        "width": 5,
+        "height": 5
+    }
+}
